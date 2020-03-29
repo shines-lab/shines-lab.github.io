@@ -12,4 +12,4 @@ description: Here are the courses Dr. Lin has taught
 
 ### **Graduate Courses**
 
-* INDE 7397 Engineering Analytics, IE, UH, Fall 2017
+* INDE 7397 Engineering Analytics, IE, UH, Fall 2017-2019.    
