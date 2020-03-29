@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Openings
 date: 2020-03-31 16:11:00-0400
 inline: false
 ---
