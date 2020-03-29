@@ -23,7 +23,7 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 
 ### **Students**
 
-#### Graduate
+#### **Graduate**
 
 **Shiva Afshar, M.S.**
 
@@ -39,7 +39,7 @@ Ph.D. Student, Industrial Engineering Department, University of Houston.
 
 
 
-#### Undergraduate
+#### **Undergraduate**
 **Chiwetalu Peter Odo**
 
 Senior, Industrial Engineering Department, University of Houston.   
