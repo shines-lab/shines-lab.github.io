@@ -69,7 +69,7 @@ enable_katex:       true
 # Collections
 # -----------------------------------------------------------------------------
 collections:
-  News:
+  news:
     defaults:
       layout: post
     output: true
@@ -78,7 +78,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
