@@ -7,7 +7,7 @@ description: Here are the faculty and students in SHINES Lab
 
 ### **Faculty**
 
-![Ying Lin|20%]({{ site.baseurl}}/assets/img/WechatIMG7514.jpeg "profile picture"){:.profile} 
+![Ying Lin]({{ site.baseurl}}/assets/img/WechatIMG7514.jpeg){:height="50%" width="50%"}
 
 **Ying Lin**
 
