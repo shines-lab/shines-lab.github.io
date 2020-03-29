@@ -6,8 +6,6 @@ date: 2020-03-31 16:11:00-0400
 inline: false
 ---
 
-We have regular openings for undegrad and graduate students. Interested candidates are welcome to contact Dr.Lin with your CV and transcripts.
-
 ***
 
 Dr. Ying Lin with the Department of Industrial Engineering at the University of Houston is seeking PhD students starting in Fall 2020. The prospective students will receive doctoral level financial support and tuition waiver. 
@@ -25,4 +23,5 @@ University of Houston is an “R1” – highest research activity – instituti
 
 
 To apply:
+
 Interested students may email Dr. Ying Lin (ylin58@uh.edu) with a detailed CV, personal statement and college education transcripts. 
