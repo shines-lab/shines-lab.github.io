@@ -23,3 +23,6 @@ description: Here are the selected publications from SHINES Lab
 * Lin, Y., Liu, S., and Huang, S., “Adaptive Monitoring of Depression Patient Population: A Selective Sensing Approach”, in 38th Annual Meeting of the Society for Medical Decision Making (SMDM), Oct 23 - Oct 24, 2016, Vancouver, CA. (Abstract), 2016.
 * Lin, Y., Huang, S., and Liu, S., “Analysis of Depression Trajectory Patterns Using Collaborative Learning”, in 37th Annual Meeting of the Society for Medical Decision Making (SMDM), Oct 18 - Oct 21, 2015, St. Louis, MO. (Abstract: invited for oral presentation), 2015.
 * Lin, Y., Liu, K., Byon, E., Qian, X., and Huang, S., “Domain-knowledge Driven Cognitive Degradation Modeling for Alzheimer’s Disease”, in SIAM International Conference on Data Mining 2015 (SDM 2015), Apr 30 - May 2, 2015, Vancouver, CA. (historical paper acceptance rate < 25%), 2015.
+
+
+<ins>Published with student</ins>
