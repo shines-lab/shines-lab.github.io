@@ -18,4 +18,4 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 * B.S., School for Gifted Young (SGY), major in Statistics, University of Science and Technology of China, P. R. China. 
 
 
-### **Student**
+### **Students**
