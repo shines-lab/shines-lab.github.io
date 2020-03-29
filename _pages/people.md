@@ -7,9 +7,11 @@ description: Here are the faculty and students in SHINES Lab
 
 ### **Faculty**
 
-![Ying Lin]({{ site.baseurl}}/assets/img/WechatIMG7514.jpeg){:height="50%" width="50%"}
+![Ying Lin]({{ site.baseurl}}/assets/img/WechatIMG7514.jpeg){:height="30%" width="30%" align="right"}
 
-**Ying Lin**
+<img src="https://github.com/shines-lab/shines-lab.github.io/blob/master/assets/img/WechatIMG7514.jpeg" align="right" width="30%" height="30%">
+
+**Ying Lin, Ph.D.**
 
 Assistant Professor, Industrial Engineering Department, University of Houston.
 
