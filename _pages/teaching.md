@@ -5,4 +5,10 @@ title: Teaching
 description: Here are the courses Dr. Lin has taught
 ---
 
-Under Construction
+### Undergraduate Courses
+
+* INDE 4349 Facilities Planning and Design, IE, UH, Spring 2018
+
+### Graduate Courses
+
+* INDE 7397 Engineering Analytics, IE, UH, Fall 2017
