@@ -6,7 +6,7 @@ description: Here are the selected publications from SHINES Lab
 ---
 
 ### Journal Articles
-* <a href="https://www.biorxiv.org/content/10.1101/440206v2.abstract">**Lin, Y.**, Wang, M., Goes, F.S., Tan, K., Zandi, P., Hyde, T., Weinberger, D.R., Potash, J.B., Kleinman, J.E. and Jaffe, A.E., Han, S., “Integrating brain methylome with GWAS for psychiatric risk gene discovery”. bioRxiv (under review of JAMA Psychiatry), p.440206, 2018</a>.
+* <a href="https://www.biorxiv.org/content/10.1101/440206v2.abstract">**Lin, Y.**, Wang, M., Goes, F.S., Tan, K., Zandi, P., Hyde, T., Weinberger, D.R., Potash, J.B., Kleinman, J.E. and Jaffe, A.E., Han, S., “Integrating brain methylome with GWAS for psychiatric risk gene discovery”. *bioRxiv*, p.440206, 2018</a>.
 * <a href="https://www.biorxiv.org/content/10.1101/463547v1.abstract">**Lin, Y.**, <ins>Afsha, S.</ins>, Rajadhyaksha, A., Potash, J. and Han, S., “A machine learning approach to predicting autism risk genes: Validation of known genes and discovery of new candidates”. *bioRxiv*, p.463547, 2018</a>.
 * <a href="https://www.tandfonline.com/doi/abs/10.1080/24725579.2019.1567627">**Lin, Y.**, Huang, S., Simon, G.E., and Liu, S., “Cost-effectiveness analysis for prognostic-based depression monitoring”, *IIE transactions on Healthcare System Engineering*, 9: 1-19, 2019</a>.
 * <a href="https://www.tandfonline.com/doi/abs/10.1080/24725854.2018.1470357">**Lin, Y.**, Liu, S., and Huang, S., “Selective Sensing of A Heterogeneous Population of Units with Dynamic Health Conditions”, *IIE Transactions*, 50(12):1076-88, 2018</a>.
