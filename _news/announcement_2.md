@@ -10,12 +10,6 @@ inline: false
 
 Dr. Ying Lin with the Department of Industrial Engineering at the University of Houston is seeking PhD students starting in Fall 2020. The prospective students will receive doctoral level financial support and tuition waiver. 
 
-Dr. Lin has established a Smart Health and Intelligent Engineering Systems (SHINES) lab at the University of Houston. The research projects in SHINES lab lie at the interactions of data analytics, quality engineering and healthcare with specific focuses on the following research directions:
-
-1.	Machine learning, optimization, network-based models, multi-source data analysis.
-2.	Bioinformatics, biomedical informatics, medical decision making.
-3.	Quality engineering, dynamic system modeling and prognosis, selective sensing.
-
 
 The prospective students are expected to have strong backgrounds in mathematics, analytics and programming. Students with bachelor’s or master’s degree in statistics, biostatistics, mathematics, computer science, industrial engineering, or other engineering majors would be good fits.
   
