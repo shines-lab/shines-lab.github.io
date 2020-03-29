@@ -6,7 +6,7 @@ description: <a href="http://www.ie.uh.edu/faculty/lin">Assistant Professor</a>,
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: WechatIMG7514.jpeg
   address: >
     <p>E211</p>
     <p>4722 Calhoun Rd</p>
