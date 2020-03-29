@@ -11,7 +11,11 @@ social: true
 ### Director
 <a href="http://www.ie.uh.edu/faculty/lin">Dr. Ying Lin</a>, Ph.D.,   
 Assistant Professor,    
-<a href="http://www.ie.uh.edu">Department of Industrial Engineering</a>, <a href="http://www.uh.edu">University of Houston</a>
+<a href="http://www.ie.uh.edu">Department of Industrial Engineering</a>,         
+<a href="http://www.uh.edu">University of Houston</a>,       
+Room E211, Engineering Building 2.     
+4722 Calhoun Road.        
+Houston, TX  77204-4008
 
 ### Research
 
