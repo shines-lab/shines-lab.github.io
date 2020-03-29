@@ -7,7 +7,7 @@ description: Here are the selected publications from SHINES Lab
 
 ### Journal Articles
 
-* Lin, Y., Liu, S., and Huang, S., “Selective Sensing of A Heterogeneous Population of Units with Dynamic Health Conditions”, IIE Transactions, accepted, 2018.
+* <a href="https://www.tandfonline.com/doi/abs/10.1080/24725854.2018.1470357">Lin, Y., Liu, S., and Huang, S., “Selective Sensing of A Heterogeneous Population of Units with Dynamic Health Conditions”, IIE Transactions, accepted, 2018 </a>.
 * Lin, Y., Huang, S., Simon, G.E., and Liu, S., “Data-based Decision Rules to Personalize Depression Follow-up”, Scientific Reports, 5064, 2018.
 * Lin, Y., Liu, K., Byon, E., Liu, S., and Huang, S., “A Collaborative Learning Framework for Estimating Many Individualized Regression Models in A Heterogeneous Population”, IEEE Transactions on Reliability, 99: 1-14, 2017.
 * Li, M., Lin, Y., Huang, S., and Crossland, C., “The Use of Sparse Inverse Covariance Estimation for Relationship Detection and Hypothesis Generation in Strategic Management”, Strategic Management Journal, 37: 86-97, 2016.
