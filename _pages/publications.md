@@ -25,4 +25,4 @@ description: Here are the selected publications from SHINES Lab
 * Lin, Y., Liu, K., Byon, E., Qian, X., and Huang, S., “Domain-knowledge Driven Cognitive Degradation Modeling for Alzheimer’s Disease”, in SIAM International Conference on Data Mining 2015 (SDM 2015), Apr 30 - May 2, 2015, Vancouver, CA. (historical paper acceptance rate < 25%), 2015.
 
 
-<ins>Published with student</ins>
+<ins>Student under my supervision</ins>
