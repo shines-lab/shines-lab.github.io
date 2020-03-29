@@ -5,10 +5,6 @@ title: <strong>Smart Health & INtelligent Engeering Systems (SHINES) Lab</strong
 profile:
   align: right
   image: WechatIMG7514.jpeg
-  address: >
-    <p>E211</p>
-    <p>4722 Calhoun Rd</p>
-    <p>Houston, TX 77204</p>
 news: true
 social: true
 ---
