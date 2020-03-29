@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Ying Lin</strong> 
+description: <a href="http://www.ie.uh.edu/faculty/lin">Assistant Professor </a>, <a href="http://www.ie.uh.edu">Deparment of Industrial Engineering</a>,<a href="http://www.uh.edu"> University of Houston</a>
 
 profile:
   align: right
