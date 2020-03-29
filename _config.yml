@@ -44,8 +44,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: SHINES Lab
+blog_description: SHINES Lab
 
 # Pagination
 paginate: 4
