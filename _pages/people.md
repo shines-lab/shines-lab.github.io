@@ -11,8 +11,7 @@ description: Here are the faculty and students in SHINES Lab
 
 **Ying Lin, Ph.D.**
 
-Assistant Professor, Industrial Engineering Department,   
-University of Houston.
+Assistant Professor, Industrial Engineering Department, University of Houston.
 
 * Ph.D., Indusrial and Systems Engineering, University of Washington. 
 
