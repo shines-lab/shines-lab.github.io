@@ -5,7 +5,7 @@ date: 2020-03-31 16:11:00-0400
 inline: false
 ---
 
-We have regular openings for undegrad, graduate students, Interested candidates are welcome to contact Dr.Lin with your CV and transcripts.
+We have regular openings for undegrad and graduate students. Interested candidates are welcome to contact Dr.Lin with your CV and transcripts.
 
 ***
 
