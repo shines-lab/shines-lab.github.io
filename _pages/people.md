@@ -7,7 +7,7 @@ description: Here are the faculty and students in SHINES Lab
 
 ### **Faculty**
 
-<img src="https://github.com/shines-lab/shines-lab.github.io/blob/master/assets/img/WechatIMG7514.jpeg" align="right" width="18%" height="18%">
+<img src="{{site.baseurl}}/assets/img/WechatIMG7514.jpeg" align="right" width="18%" height="18%">
 
 **Ying Lin, Ph.D.**
 
