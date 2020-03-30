@@ -15,8 +15,10 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 <img src="{{site.baseurl}}/assets/img/UW.jpg" align="right" width="10%" height="10%">
 * Ph.D., Indusrial and Systems Engineering, University of Washington. 
 <br>
+<br>
 <img src="{{site.baseurl}}/assets/img/USF.png" align="right" width="10%" height="10%">
 * M.S., Industrial and Management Systems Engineering, University of South Florida. 
+<br>
 <br>
 <img src="{{site.baseurl}}/assets/img/USTC.png" align="right" width="10%" height="10%">
 * B.S., School for Gifted Young (SGY), major in Statistics, University of Science and Technology of China, P. R. China. 
