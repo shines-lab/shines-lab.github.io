@@ -8,11 +8,3 @@ img: /assets/img/Picture1.png
 
 <br>
 
-
-#### **Aim 1: A Collaborative Learning framework for personalized disease trajectory modeling from sparse and irregular EHR data.**
-
-<br>
-
-#### **Aim 2: A Selective Sensing framework for personalized follow-up monitoring under limited healthcare resources.**
-
-
