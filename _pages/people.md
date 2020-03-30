@@ -27,7 +27,8 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 
 **Shiva Afshar, M.S.**
 
-Ph.D. Student, Industrial Engineering Department, University of Houston.
+Ph.D. Student, Industrial Engineering Department, University of Houston.    
+Dissertation Topic: Deep Learning and Network-based Approaches to Fine-map Risk Genes at Single-cell Resolution
 
 
 
@@ -35,12 +36,13 @@ Ph.D. Student, Industrial Engineering Department, University of Houston.
 
 **Mai Li, B.S.**
 
-Ph.D. Student, Industrial Engineering Department, University of Houston.   
+Ph.D. Student, Industrial Engineering Department, University of Houston.        
+Dissertation Topic: Embedding-based Privacy-Preserving Models to Integrate Multisource Medical Data
 
 
 
 #### **Undergraduate**
 **Chiwetalu Peter Odo**
 
-Senior, Industrial Engineering Department, University of Houston.   
-
+Senior, Industrial Engineering Department, University of Houston.        
+Thesis Topic: Data-driven Rules for Individualized Lifestyle Recommendations
