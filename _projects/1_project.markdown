@@ -5,15 +5,11 @@ description: Machine learning models and decision support algorithms to adaptive
 img: /assets/img/Picture1.png
 ---
 
+<br>
+ <img src="{{site.baseurl}}/assets/img/Project1.png" align="center" width="100%" height="100%">
 
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/Project1.png" alt="" title="Personalized Chronic Disease Monitoring"/>
-</div>
-<div class="col three caption">
-    Personalized Chronic Disease Monitoring.
-</div>
+Personalized Chronic Disease Monitoring.
+<br>
 
-
-<br/><br/>
 
 
