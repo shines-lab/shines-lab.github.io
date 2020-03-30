@@ -19,7 +19,7 @@ Houston, TX  77204-4008
 
 ### **Research**
 
-Research interests of SHINES Lab lie at the interactions of data analytics, quality engineering and healthcare. Her group focuses on the following research directions:
+<p align="justify">Research interests of SHINES Lab lie at the interactions of data analytics, quality engineering and healthcare. Her group focuses on the following research directions:</p>
 
 * Statistical learning and data mining: biomedical and sensing data analysis.
 * Quality engineering: system modeling and prognosis, prognostic-based monitoring.
