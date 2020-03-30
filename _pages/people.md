@@ -27,6 +27,8 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 
 **Shiva Afshar, M.S.**
 
+<img src="{{site.baseurl}}/assets/img/IE_Shiva_Afshar_2019_1_WEB.jpg" align="right" width="15%" height="15%">
+
 Ph.D. Student, Industrial Engineering Department, University of Houston.    
 Dissertation Topic: Deep Learning and Network-based Approaches to Fine-map Risk Genes at Single-cell Resolution
 
