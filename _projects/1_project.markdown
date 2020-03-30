@@ -2,7 +2,7 @@
 layout: page
 title: Personalized Chronic Disease Monitoring 
 description: 
-img:
+img: assets/img/P1.png
 ---
  <img src="{{site.baseurl}}/assets/img/Project1.png" align="center" width="100%" height="100%">
  
