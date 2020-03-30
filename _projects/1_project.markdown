@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
+title: Personalized Chronic Disease Monitoring 
+description: Machine learning models and decision support algorithms to adaptively monitor chronic disease progressions in a heterogeneous population.
 img: /assets/img/12.jpg
 ---
 
@@ -9,12 +9,7 @@ Every project has a beautiful feature shocase page. It's easy to include images,
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
 
 
 <div class="img_row">
