@@ -11,6 +11,7 @@ img: /assets/img/Picture1.png
  <img src="{{site.baseurl}}/assets/img/Project1_CM.png" align="center" width="100%" height="100%">
 
 <br>
+
 ### **Aim 2: A Selective Sensing framework for personalized follow-up monitoring under limited healthcare resources.**
 
 
