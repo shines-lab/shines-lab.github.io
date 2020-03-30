@@ -8,19 +8,19 @@ description: Here are the faculty and students in SHINES Lab
 ### **Faculty**
 
 **Ying Lin, Ph.D.**          
-<img src="{{site.baseurl}}/assets/img/UH.png" align="right" width="10%" height="10%">         
+<img src="{{site.baseurl}}/assets/img/UH.png" align="right" width="9%" height="9%">         
 Assistant Professor, Industrial Engineering Department, University of Houston.
 <br>
 <br>
-<img src="{{site.baseurl}}/assets/img/UW.jpg" align="right" width="10%" height="10%">
+<img src="{{site.baseurl}}/assets/img/UW.jpg" align="right" width="9%" height="9%">
 * Ph.D., Indusrial and Systems Engineering, University of Washington. 
 <br>
 <br>
-<img src="{{site.baseurl}}/assets/img/USF.png" align="right" width="10%" height="10%">
+<img src="{{site.baseurl}}/assets/img/USF.png" align="right" width="9%" height="9%">
 * M.S., Industrial and Management Systems Engineering, University of South Florida. 
 <br>
 <br>
-<img src="{{site.baseurl}}/assets/img/USTC.png" align="right" width="10%" height="10%">
+<img src="{{site.baseurl}}/assets/img/USTC.png" align="right" width="9%" height="9%">
 * B.S., School for Gifted Young (SGY), major in Statistics, University of Science and Technology of China, P. R. China. 
 <br>
 
