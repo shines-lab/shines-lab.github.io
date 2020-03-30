@@ -5,7 +5,9 @@ description: Machine learning models and decision support algorithms to adaptive
 img: /assets/img/Picture1.png
 ---
  <img src="{{site.baseurl}}/assets/img/Project1.png" align="center" width="100%" height="100%">
+
 <br>
+
 
 #### **Aim 1: A Collaborative Learning framework for personalized disease trajectory modeling from sparse and irregular EHR data.**
  <img src="{{site.baseurl}}/assets/img/Project1_CM.png" align="center" width="100%" height="100%">
