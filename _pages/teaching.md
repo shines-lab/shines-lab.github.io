@@ -7,7 +7,7 @@ description: Here are the courses Dr. Lin has taught
 
 ### **Undergraduate Courses**
 
-**INDE 4364 Big Data and Analytics, IE, UH, S2019 & S2020. ** 
+**INDE 4364 Big Data and Analytics, IE, UH, S2019 & S2020.** 
 
 Principles, techniques and applications of data analytics, designed mainly for senior undergraduate students who have had a foundation of statistics and computational programming. It primarily focuses on the ideas, algorithms and implementations of data analytics methods for analytic decision-makings in applications. Data analytics methods including regression, classification and clustering will be studied. Programming using R will be taught and data analysis examples in R will be mentioned and demonstrated in Lab sessions.
 
