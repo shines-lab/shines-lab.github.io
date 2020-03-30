@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We have regular openings for undegrad and graduate students. Interested candidates are welcome to contact Dr.Lin with your CV and transcripts.
+title: We have regular openings for undergrad and graduate students. Interested candidates are welcome to contact Dr.Lin with your CV and transcripts.
 
 date: 2020-03-31 16:11:00-0400
 inline: false
