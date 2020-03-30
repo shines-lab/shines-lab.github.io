@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy-Preserving Machine Learning Models
-description: Develop novel machine learning models that enable data integration and predictive modeling in a privacy-preserving environment.
+description: 
 
 img: /assets/img/2.jpg
 ---
