@@ -12,7 +12,7 @@ description: Here are the faculty and students in SHINES Lab
 Assistant Professor, Industrial Engineering Department, University of Houston.
 <br>
 <br>
-<img src="{{site.baseurl}}/assets/img/UW.jpg" align="right" width="9%" height="9%">
+<img src="{{site.baseurl}}/assets/img/UW.jpg" align="right" width="8.5%" height="8.5%">
 * Ph.D., Indusrial and Systems Engineering, University of Washington. 
 <br>
 <br>
