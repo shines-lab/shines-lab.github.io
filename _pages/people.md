@@ -25,9 +25,7 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 
 #### **Graduate**
 
-<img src="{{site.baseurl}}/assets/img/IE_Shiva_Afshar_2019_1_WEB.jpg" align="right" width="10%" height="10%">
-
-
+<img src="{{site.baseurl}}/assets/img/IE_Shiva_Afshar_2019_1_WEB.jpg" align="right" width="13%" height="13%">
 **Shiva Afshar, M.S.**
 
 
