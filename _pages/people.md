@@ -22,7 +22,7 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 <br>
 <img src="{{site.baseurl}}/assets/img/USTC.png" align="right" width="10%" height="10%">
 * B.S., School for Gifted Young (SGY), major in Statistics, University of Science and Technology of China, P. R. China. 
-
+<br>
 
 
 ### **Students**
