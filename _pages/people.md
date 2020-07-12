@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /people/
-title: <h2><b>People</b></h2>
+title: <b><small>People</small></b>
 description: Here are the faculty and students in SHINES Lab
 ---
 
