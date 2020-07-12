@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 permalink: /
 title: <strong>Smart Health & INtelligent Engineering Systems (SHINES) Lab</strong> 
 profile:
