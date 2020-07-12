@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Smart Health & <p style="color:red">IN<p>telligent Engineering Systems (SHINES) Lab</strong> 
+title: <font size="5" color="#ff0000">Smart Health & INtelligent Engineering Systems (SHINES) Lab</font>
 profile:
   align: right
   image: WechatIMG7514.jpeg
