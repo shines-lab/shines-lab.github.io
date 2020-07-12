@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <h2><b>Projects</h2></b>
+title: <b>Projects</b>
 permalink: /projects/
 description: 
 ---
