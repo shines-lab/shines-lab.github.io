@@ -33,16 +33,17 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 **Shiva Afshar, M.S.**
 
 
-Ph.D. Student, Industrial Engineering Department, University of Houston.    
-Dissertation Topic: Deep Learning and Network-based Approaches to Fine-map Risk Genes at Single-cell Resolution
+* Ph.D. Student, Industrial Engineering Department, University of Houston.
+* Passed the thesis proposal defense in May 2022.    
+* Dissertation Topic: Deep Learning and Network-based Approaches to Fine-map Risk Genes at Single-cell Resolution
            
                   
 
 
 **Mai Li, B.S.**
 
-Ph.D. Student, Industrial Engineering Department, University of Houston.        
-Dissertation Topic: Embedding-based Privacy-Preserving Models to Integrate Multisource Medical Data
+* Ph.D. Student, Industrial Engineering Department, University of Houston.        
+* Dissertation Topic: Embedding-based Privacy-Preserving Models to Integrate Multisource Medical Data
 
 
 
@@ -50,8 +51,8 @@ Dissertation Topic: Embedding-based Privacy-Preserving Models to Integrate Multi
 **Tanapol Kosolwattana, B.S.**
 
 
-Ph.D. Student, Industrial Engineering Department, University of Houston.    
-Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Dependent Systems
+* Ph.D. Student, Industrial Engineering Department, University of Houston.    
+* Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Dependent Systems
 
 
 
@@ -59,8 +60,8 @@ Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Depende
 **Tanapol Kosolwattana, B.S.**
 
 
-Ph.D. Student, Industrial Engineering Department, University of Houston.    
-Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Dependent Systems
+* Ph.D. Student, Industrial Engineering Department, University of Houston.    
+* Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Dependent Systems
    
 
 
@@ -68,12 +69,12 @@ Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Depende
 
 **Thamer Alnazzal, M.S.**
 
-M.S. Student, Industrial Engineering Department, University of Houston.    
-Dissertation Topic: Data-driven decision rules for personalized health management.  
+* M.S. Student, Industrial Engineering Department, University of Houston.    
+* Dissertation Topic: Data-driven decision rules for personalized health management.  
 
 
 #### **Undergraduate students**
 **Chiwetalu Peter Odo (Deal Tech Associate at EY-Parthenon)**
 
-Senior, Industrial Engineering Department, University of Houston.        
-Thesis Topic: Data-driven Rules for Individualized Lifestyle Recommendations
+* Industrial Engineering Department, University of Houston.        
+* Thesis Topic: Data-driven Rules for Individualized Lifestyle Recommendations
