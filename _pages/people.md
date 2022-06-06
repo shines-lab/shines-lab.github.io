@@ -25,7 +25,7 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 <br>
 
 
-### **Current Students**
+### **Students**
 
 #### **PhD Students**
 
