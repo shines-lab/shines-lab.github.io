@@ -25,9 +25,9 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 <br>
 
 
-### **Students**
+### **Current Students**
 
-#### **Graduate**
+#### **PhD Students**
 
 <!--- <img src="{{site.baseurl}}/assets/img/IE_Shiva_Afshar_2019_1_WEB.jpg" align="right" width="13%" height="13%"> -->
 **Shiva Afshar, M.S.**
@@ -52,10 +52,28 @@ Dissertation Topic: Embedding-based Privacy-Preserving Models to Integrate Multi
 
 Ph.D. Student, Industrial Engineering Department, University of Houston.    
 Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Dependent Systems
+
+
+
+
+**Tanapol Kosolwattana, B.S.**
+
+
+Ph.D. Student, Industrial Engineering Department, University of Houston.    
+Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Dependent Systems
    
 
-#### **Undergraduate**
-**Chiwetalu Peter Odo**
+
+#### **Master students**
+
+**Thamer Alnazzal, M.S.**
+
+M.S. Student, Industrial Engineering Department, University of Houston.    
+Dissertation Topic: Data-driven decision rules for personalized health management.  
+
+
+#### **Undergraduate students**
+**Chiwetalu Peter Odo (Deal Tech Associate at EY-Parthenon)**
 
 Senior, Industrial Engineering Department, University of Houston.        
 Thesis Topic: Data-driven Rules for Individualized Lifestyle Recommendations
