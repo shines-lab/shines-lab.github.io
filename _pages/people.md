@@ -46,6 +46,14 @@ Dissertation Topic: Embedding-based Privacy-Preserving Models to Integrate Multi
 
 
 
+
+**Tanapol Kosolwattana, B.S.**
+
+
+Ph.D. Student, Industrial Engineering Department, University of Houston.    
+Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Dependent Systems
+   
+
 #### **Undergraduate**
 **Chiwetalu Peter Odo**
 
