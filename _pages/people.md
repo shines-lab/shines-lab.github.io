@@ -34,7 +34,7 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 
 
 * Ph.D. Student, Industrial Engineering Department, University of Houston.
-* Passed the thesis proposal defense in May 2022.    
+* Thesis proposal defense passed in May 2022.    
 * Dissertation Topic: Deep Learning and Network-based Approaches to Fine-map Risk Genes at Single-cell Resolution
            
                   
@@ -42,7 +42,8 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 
 **Mai Li, B.S.**
 
-* Ph.D. Student, Industrial Engineering Department, University of Houston.        
+* Ph.D. Student, Industrial Engineering Department, University of Houston.   
+* Qualify exam passed in 2020.        
 * Dissertation Topic: Embedding-based Privacy-Preserving Models to Integrate Multisource Medical Data
 
 
@@ -51,18 +52,11 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 **Tanapol Kosolwattana, B.S.**
 
 
-* Ph.D. Student, Industrial Engineering Department, University of Houston.    
+* Ph.D. Student, Industrial Engineering Department, University of Houston. 
+* Qualify exam passed in 2021   
 * Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Dependent Systems
 
 
-
-
-**Tanapol Kosolwattana, B.S.**
-
-
-* Ph.D. Student, Industrial Engineering Department, University of Houston.    
-* Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Dependent Systems
-   
 
 
 #### **Master students**
