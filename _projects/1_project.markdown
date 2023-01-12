@@ -8,7 +8,7 @@ img: assets/img/P1.png
  
 #### **Objective: develop novel machine learning models and decision support algorithms to adaptively monitor chronic disease progressions in a heterogeneous population.**
  
-<a href="http://www.ie.uh.edu/faculty/lin"> Code is available 
+<a href="https://github.com/shines-lab/Collaborative-Learning"> Code is available 
 
 <br>
 
