@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personalized Chronic Disease Monitoring 
+<a href="http://www.ie.uh.edu/faculty/lin">title: Personalized Chronic Disease Monitoring<\a>
 description: 
 img: assets/img/P1.png
 ---
