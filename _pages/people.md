@@ -9,7 +9,7 @@ description: Here are the faculty and students in SHINES Lab
 
 **Ying Lin, Ph.D.**          
 <img src="{{site.baseurl}}/assets/img/UH.png" align="right" width="9%" height="9%">         
-Assistant Professor, Industrial Engineering Department, University of Houston.
+Associate Professor, Industrial and Systems Engineering Department, University of Houston.
 <br>
 <br>
 <img src="{{site.baseurl}}/assets/img/UW.jpg" align="right" width="8.5%" height="8.5%">
@@ -27,44 +27,81 @@ Assistant Professor, Industrial Engineering Department, University of Houston.
 
 ### **Students**
 
-#### **PhD Students**
-
-<!--- <img src="{{site.baseurl}}/assets/img/IE_Shiva_Afshar_2019_1_WEB.jpg" align="right" width="13%" height="13%"> -->
-**Shiva Afshar, M.S.**
+#### **Current PhD Students**
+**Muyun Lu, M.S.**
 
 
 * Ph.D. Student, Industrial Engineering Department, University of Houston.
-* Thesis proposal defense passed in May 2022.    
+* Proposal defense in May 2026.    
+* Dissertation Topic: Optimizing Expensive Black-box Functions via Multi-fidelity and Self-evolving Bayesian Optimization
+   
+**Kiran Adhikari, M.S.**
+
+
+* Ph.D. Student, Industrial Engineering Department, University of Houston. 
+* Dissertation Topic: Process-structure-property relationships modeling from autocorrelated functional curves
+
+
+**Yuhao Wu, M.S.**
+
+
+* Ph.D. Student, Industrial Engineering Department, University of Houston. 
+* Dissertation Topic: Real-time feedback control via reinforced LLM
+
+
+
+**Thamer Alnazzal, M.S.**
+
+* Ph.D. Student, Industrial Engineering Department, University of Houston.    
+* Dissertation Topic: Data-driven decision rules for personalized health management.  
+
+
+**Yanlin Xiang, M.S.**
+
+
+* Ph.D. Student, Industrial Engineering Department, University of Houston.
+* Co-advised with Qianmei (May) Feng.
+* Dissertation Topic: Machine learning-based Process Stability Modeling and Monitoring
+
+**Yanjie Yi, M.S.**
+
+
+* Ph.D. Student, Industrial Engineering Department, University of Houston.
+* Co-advised with Zheyong Bian.
+* Dissertation Topic: Federated and Robust Online Learning Algorithms for Real-time Vehicle-passenger Matching
+  
+
+#### **Graduated PhD Students**
+
+<!--- <img src="{{site.baseurl}}/assets/img/IE_Shiva_Afshar_2019_1_WEB.jpg" align="right" width="13%" height="13%"> -->
+**Shiva Afshar, Ph.D.**
+
+
+* Data Scientist, Emory University School of Medicine          
+* Graduated in May 2023.    
 * Dissertation Topic: Deep Learning and Network-based Approaches to Fine-map Risk Genes at Single-cell Resolution
            
                   
 
 
-**Mai Li, B.S.**
+**Mai Li, Ph.D.**
 
-* Ph.D. Student, Industrial Engineering Department, University of Houston.   
-* Qualify exam passed in 2020.        
+* Data Scientist, Precision Animal Health at Zoetis Inc.
+* Graduated in Fall 2024.        
 * Dissertation Topic: Embedding-based Privacy-Preserving Models to Integrate Multisource Medical Data
 
 
 
 
-**Tanapol Kosolwattana, B.S.**
+**Tanapol Kosolwattana, Ph.D.**
 
 
-* Ph.D. Student, Industrial Engineering Department, University of Houston. 
-* Qualify exam passed in 2021   
+* Graduated in Spring 2025.  
 * Dissertation Topic: Bandit-based Adaptive Monitoring for a Population of Dependent Systems
 
 
 
 
-#### **Master students**
-
-**Thamer Alnazzal, M.S.**
-
-* M.S. Student, Industrial Engineering Department, University of Houston.    
-* Dissertation Topic: Data-driven decision rules for personalized health management.  
 
 
 #### **Undergraduate students**
