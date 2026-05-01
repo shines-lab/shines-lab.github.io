@@ -4,7 +4,7 @@ permalink: /
 title: <h2><b>Smart Health & INtelligent Engineering Systems (SHINES) Lab</b></h2>
 profile:
   align: right
-  image: WechatIMG7514.jpeg
+  image: YL_photo.jpeg
 news: true
 social: true
 ---
